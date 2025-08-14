@@ -1,0 +1,13 @@
+filename = 'warium_extras-1.0.5-forge-1.20.1.jar'
+name = 'Warium Extras'
+side = 'both'
+
+[download]
+hash = 'e70254cb3073e4b10b1828adc7baa3c49a1b8950'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6792522
+project-id = 1264240
