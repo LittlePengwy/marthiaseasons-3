@@ -645,18 +645,6 @@ file = "ears-debug.log"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "iammusicplayer/lava-natives-2.2.3/win-x86-64/connector.dll"
-hash = "eb5d3707fffe6c7f1a2528d7c5dffcce5579148d22b29ef02cbc5b2fd23f5673"
-
-[[files]]
-file = "iammusicplayer/lava-natives-2.2.3/win-x86-64/hash.json"
-hash = "bb60ecd40dc3f161a8eed29c24af6bf13d8bed6128d64564a48976b68ea7fda4"
-
-[[files]]
-file = "iammusicplayer/lava-natives-2.2.3/win-x86-64/libmpg123-0.dll"
-hash = "8970c7f6be33fc78f7d48d8ff8568da779ab6cecb31e9485fb28f2cf58d9a727"
-
-[[files]]
 file = "icon.png"
 hash = "a7ce581ec7b3c3d2c51d2175c04580bd69ce7cc1f3eb35fd241f934a84e30bcf"
 
@@ -953,11 +941,6 @@ hash = "5f66c10c529e87389cffff32ca6e2856cf64f669133cb56942ebccd805855625"
 metafile = true
 
 [[files]]
-file = "mods/.index/iam-music-player-renewed.pw.toml"
-hash = "e1af57bd3bd9f1bc2319c0a6327daa9913137bcbbeca981dfb35a7d143cf61dd"
-metafile = true
-
-[[files]]
 file = "mods/.index/interactive.pw.toml"
 hash = "b87fc57d7c5f1c4695de8702bab03ee64bab9511cf10cac762b3a1c079d481ee"
 metafile = true
@@ -1242,10 +1225,6 @@ file = "mods/FarmersDelight-1.20.1-1.2.8.jar"
 hash = "27f16663b015d6efb1cba993afc5b230a1c9eda25eeef0cd57547ab1b41c02bd"
 
 [[files]]
-file = "mods/LuckPerms-Forge-5.4.102.jar"
-hash = "935beff65a4d248880e004ccb5fc2f1cc5d63d3f24870ff8d472cbefa31016da"
-
-[[files]]
 file = "mods/MaFgLib-0.1.14-mc1.20.1.jar"
 hash = "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
 
@@ -1382,10 +1361,6 @@ file = "mods/design_decor-0.4.0b-1.20.1.jar"
 hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
 
 [[files]]
-file = "mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar"
-hash = "71ffc54d3f1fbe9497cf7b398c79a2724c60f7b06809941e9ded0888587347af"
-
-[[files]]
 file = "mods/ears-forge-1.19.4-1.4.7.jar"
 hash = "9f2ac20341d6d32bae9e87d416931a2f5ae4ae16635e24be6060da6416eaa6ae"
 
@@ -1420,10 +1395,6 @@ hash = "065b88ebc867240fcd57fa1b5acf3559ed06719bc201235c1b1678062234e40f"
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.7.3.jar"
 hash = "71fe976b38c042dfb77449caa34f801f88d7380cfbcf6e5c1f49e10664b3bb9f"
-
-[[files]]
-file = "mods/grieflogger-1.2.4-1.20.1-forge.jar"
-hash = "5c416c2158c4f3b3a257a0e9d1dafa73e11830464a71548df9e4173ae60f9794"
 
 [[files]]
 file = "mods/handcrafted-forge-1.20.1-3.0.6.jar"
@@ -1484,10 +1455,6 @@ hash = "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
 [[files]]
 file = "mods/open-parties-and-claims-forge-1.20.1-0.24.0.jar"
 hash = "ebb6d0fae2c228cd16400409e91098f0bf4aa6321c496caa695ee05c1471ea70"
-
-[[files]]
-file = "mods/otyacraftengine-forge-mc1.20.1-3.7.0-1.20.1.jar"
-hash = "a7c86f15c909cc728b2e7986dc697f3aa89def7ea2cd01134981ebf0c750a6b8"
 
 [[files]]
 file = "mods/ponderjs-1.20.1-1.4.0.jar"
@@ -1588,10 +1555,6 @@ hash = "64146b2380994358e7c48906bf11ba21df65f3d8ff83e158083faa8b31332203"
 [[files]]
 file = "options.txt"
 hash = "56fe60abb9999d8cd34669d32cd78717c0c339abb6de428b9cfd950cadf9a8ea"
-
-[[files]]
-file = "otyacraftengine/url_textures_index.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "resourcepacks/3D item on coaster.zip"
