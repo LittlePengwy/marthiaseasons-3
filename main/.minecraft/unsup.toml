@@ -45,7 +45,6 @@ flavors = ["no_clientside__mods"]
 flavors = ["no_clientside__mods"]
 
 [metafile.distanthorizons]
-flavors = ["distant_on"]
 
 [metafile.first-person-model]
-flavours = ["model_on"]
+
