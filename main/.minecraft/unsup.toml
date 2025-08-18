@@ -33,7 +33,7 @@ id = "first-person-model_on"
 name = "On"
 description = "Viewmodel On"
 [[flavor_groups.model.choices]]
-id = "first-person-viewmodel_off"
+id = "first-person-model_off"
 name = "Off"
 description = "Viewmodel Off"
 
@@ -87,10 +87,11 @@ flavors = "most_clientside_mods"
 flavors = "distanthorizons_on"
 
 [metafile.first-person-model]
-flavors = "first-person-viewmodel_off"
+flavors = "first-person-model_on"
 
 [metafile.inventory-sorter]
 flavors = "inventory-sort_on"
+
 
 
 
