@@ -974,10 +974,6 @@ file = ".minecraft/shaderpacks/VECTOR_v1.3.1.zip.txt"
 hash = "cee6d7febcf04d67a8081e5692aa884ea75eddf4c5e20c50dcdc73f26a9cb1c9"
 
 [[files]]
-file = ".packignore"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "instance.cfg"
 hash = "564b5de6a1ca4ef2da926cc71ffaa9f3a867b9f6ea93480eca53c66e0f2686c2"
 
