@@ -1,0 +1,13 @@
+filename = 'warium_ponder-1.1.0.jar'
+name = 'Warium Ponder'
+side = 'client'
+
+[download]
+hash = 'c46775af48f99ba932b5f5f7c40ba2bda29d79b289debf274dd2a8e619094b9caa3d1668aff1eef95c79346cfa9c15b508641d0d27b52e54d4e6598d7ea81ff5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8STNlMC8/versions/8m7aBHaj/warium_ponder-1.1.0.jar'
+
+[update.modrinth]
+mod-id = '8STNlMC8'
+version = '8m7aBHaj'

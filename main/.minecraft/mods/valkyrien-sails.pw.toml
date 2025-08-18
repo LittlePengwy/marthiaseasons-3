@@ -1,0 +1,13 @@
+filename = 'vs_sails-1.20.1-0.1.7-forge.jar'
+name = 'Valkyrien Sails'
+side = 'both'
+
+[download]
+hash = '71402e12f35adaa6e3eeb93614c0d916141abe127bd4d387de40293472f5e959506cba7b1a51b1b1ba22d585339edf89bfb9fae5f66c3351946cd3941eec433e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/esFadCt9/versions/FIoGN14g/vs_sails-1.20.1-0.1.7-forge.jar'
+
+[update.modrinth]
+mod-id = 'esFadCt9'
+version = 'FIoGN14g'
