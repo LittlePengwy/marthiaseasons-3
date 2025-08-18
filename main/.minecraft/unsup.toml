@@ -11,18 +11,6 @@ id = "some_clientside_mods"
 name = "Most"
 description = "Most clientside mods, barring a few."
 
-[flavor_groups.distant-horizons]
-name = "Distant Horizons"
-description = "Wether you would like to install Distant Horizons or not."
-side = "client"
-choices = ["distant_on", "distant_off"]
-
-[flavor_groups.viewmodel]
-name = "1st Person Viewmodel"
-description = "Wether you would like to install the First Person Viewmodel or not."
-side = "client"
-choices = ["model_on", "model_off"]
-
 [metafile.3dskinlayers]
 flavors = ["no_clientside__mods"]
 [metafile.ambient-environment]
@@ -60,5 +48,4 @@ flavors = ["no_clientside__mods"]
 flavors = ["distant_on"]
 
 [metafile.first-person-model]
-
 flavours = ["model_on"]
