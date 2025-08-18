@@ -3,7 +3,7 @@ name = "General Clientside Mods"
 description = "Wether you would like to install any purely clientside mods, with a few exceptions, namely Xaeros and Ears."
 side = "client"
 [[flavor_groups.clientside.choices]]
-id = "some_clientside_mods"
+id = "most_clientside_mods"
 name = "Most"
 description = "Most clientside mods, barring a few."
 [[flavor_groups.clientside.choices]]
@@ -51,37 +51,37 @@ name = "Off"
 description = "Inventory Sort Off"
 
 [metafile.3dskinlayers]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.ambient-environment]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.ambientsounds]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.appleskin]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.caelum]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.chat-heads]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.continuity]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.connector]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.athena-ctm]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.not-enough-animations]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.oculus]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.particle-rain]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.shulkerboxtooltip]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.sound-physics-remastered]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.wthit]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 [metafile.zume]
-flavors = "some_clientside_mods"
+flavors = "most_clientside_mods"
 
 [metafile.distanthorizons]
 flavors = "distanthorizons_on"
@@ -91,6 +91,7 @@ flavors = "first-person-viewmodel_off"
 
 [metafile.inventory-sorter]
 flavors = "inventory-sort_on"
+
 
 
 
