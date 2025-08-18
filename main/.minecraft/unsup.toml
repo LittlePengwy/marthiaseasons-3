@@ -37,6 +37,19 @@ id = "first-person-viewmodel_off"
 name = "Off"
 description = "Viewmodel Off"
 
+[flavor_groups.invsort]
+name = "Inventory Sorter"
+description = "Wether you would like to install Inventory Sorter"
+side = "client"
+[[flavor_groups.invsort.choices]]
+id = "inventory-sort_on"
+name = "On"
+description = "Inventory Sort On"
+[[flavor_groups.invsort.choices]]
+id = "inventory-sort_off"
+name = "Off"
+description = "Inventory Sort Off"
+
 [metafile.3dskinlayers]
 flavors = "some_clientside__mods"
 [metafile.ambient-environment]
@@ -71,10 +84,14 @@ flavors = "some_clientside__mods"
 flavors = "some_clientside__mods"
 
 [metafile.distanthorizons]
-flavours = "distanthorizons_on"
+flavors = "distanthorizons_on"
 
 [metafile.first-person-model]
-flavours = "first-person-viewmodel_off"
+flavors = "first-person-viewmodel_off"
+
+[metafile.inventory-sorter]
+flavors = "inventory-sort_on"
+
 
 
 
