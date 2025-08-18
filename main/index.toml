@@ -1126,10 +1126,6 @@ file = ".minecraft/mods/firstperson-forge-2.5.0-mc1.20.1.jar"
 hash = "9501727ae3f0eb1c12f7a0da554cadd332131afb68dd820952460acd6a28b5ae"
 
 [[files]]
-file = ".minecraft/mods/forge-3.22.0-1.20.1.jar"
-hash = "f9036a6213585d515b9554fce193ee270a1a971185e53fb67f46602bd2936fef"
-
-[[files]]
 file = ".minecraft/mods/fusion-1.2.9-forge-mc1.20.1.jar"
 hash = "065b88ebc867240fcd57fa1b5acf3559ed06719bc201235c1b1678062234e40f"
 
