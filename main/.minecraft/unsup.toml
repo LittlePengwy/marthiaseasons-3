@@ -3,13 +3,13 @@ name = "General Clientside Mods"
 description = "Wether you would like to install any purely clientside mods, with a few exceptions, namely Xaeros and Ears."
 side = "client"
 [[flavor_groups.clientside.choices]]
-id = "no_clientside_mods"
-name = "None"
-description = "Bare minimum, barring a few mods."
-[[flavor_groups.clientside.choices]]
 id = "some_clientside_mods"
 name = "Most"
 description = "Most clientside mods, barring a few."
+[[flavor_groups.clientside.choices]]
+id = "no_clientside_mods"
+name = "None"
+description = "Bare minimum, barring a few mods."
 
 [metafile.3dskinlayers]
 flavors = ["no_clientside__mods"]
@@ -45,10 +45,11 @@ flavors = ["no_clientside__mods"]
 flavors = ["no_clientside__mods"]
 
 [metafile.distanthorizons]
-flavors = "distanthorizons_on"
+flavors = ["distanthorizons_on"]
 
 [metafile.first-person-model]
 flavors = "first-person-model_on"
+
 
 
 
