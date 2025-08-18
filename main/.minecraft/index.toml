@@ -141,10 +141,6 @@ file = "config/gravestone-client.toml"
 hash = "0f7657373c8cccc3e9f11a79533c0c85c84e68762b65e5c6f9728ca9226873d3"
 
 [[files]]
-file = "config/inventorysorter-client.toml"
-hash = "92de49a9405703845f2da9cde2b77dfa75c0088217c0c7a94d4e9ea200cf0549"
-
-[[files]]
 file = "config/jei/blacklist.cfg"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
