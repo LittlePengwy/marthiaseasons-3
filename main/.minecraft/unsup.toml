@@ -1,63 +1,64 @@
-[flavour_groups.clientside]
+[flavor_groups.clientside]
 name = "General Clientside Mods"
 description = "Wether you would like to install any purely clientside mods, with a few exceptions, namely Xaeros and Ears."
 side = "client"
-[[flavour_groups.clientside.choices]]
+[[flavor_groups.clientside.choices]]
 id = "no_clientside_mods"
 name = "None"
 description = "Bare minimum, barring a few mods."
-[[flavour_groups.clientside.choices]]
+[[flavor_groups.clientside.choices]]
 id = "some_clientside_mods"
 name = "Most"
 description = "Most clientside mods, barring a few."
 
-[flavour_groups.distant-horizons]
+[flavor_groups.distant-horizons]
 name = "Distant Horizons"
 description = "Wether you would like to install Distant Horizons or not."
 side = "client"
 choices = ["distant_on", "distant_off"]
 
-[flavour_groups.viewmodel]
+[flavor_groups.viewmodel]
 name = "1st Person Viewmodel"
 description = "Wether you would like to install the First Person Viewmodel or not."
 side = "client"
 choices = ["model_on", "model_off"]
 
 [metafile.3dskinlayers]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.ambient-environment]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.ambientsounds]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.caelum]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.chat-heads]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.continuity]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.connector]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.forgified-fabric-api]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.athena-ctm]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.fusion-connected-textures]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.not-enough-animations]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.oculus]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.shulkerboxtooltip]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.sound-physics-remastered]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.wthit]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 [metafile.zume]
-flavours = ["no_clientside__mods"]
+flavors = ["no_clientside__mods"]
 
 [metafile.distanthorizons]
-flavours = ["distant_on"]
+flavors = ["distant_on"]
 
 [metafile.first-person-model]
+
 flavours = ["model_on"]
