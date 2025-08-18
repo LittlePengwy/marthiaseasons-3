@@ -409,10 +409,6 @@ file = ".minecraft/icon.png"
 hash = "a7ce581ec7b3c3d2c51d2175c04580bd69ce7cc1f3eb35fd241f934a84e30bcf"
 
 [[files]]
-file = ".minecraft/index.toml"
-hash = "ee70f6de4af6bf71b175fb64731f11965029ace2c47b97ec974e0e72bc1b696d"
-
-[[files]]
 file = ".minecraft/kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -932,10 +928,6 @@ metafile = true
 [[files]]
 file = ".minecraft/options.txt"
 hash = "56fe60abb9999d8cd34669d32cd78717c0c339abb6de428b9cfd950cadf9a8ea"
-
-[[files]]
-file = ".minecraft/pack.toml"
-hash = "2f4141fc20c228359e4c193e27eeb89f43c7f1eff284dda6f44952794e08daa3"
 
 [[files]]
 file = ".minecraft/resourcepacks/3D item on coaster.zip"
