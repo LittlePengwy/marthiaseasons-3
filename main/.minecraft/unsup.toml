@@ -71,10 +71,10 @@ flavors = "some_clientside__mods"
 flavors = "some_clientside__mods"
 
 [metafile.distanthorizons]
-
+flavours = "distanthorizons_on"
 
 [metafile.first-person-model]
-
+flavours = "first-person-viewmodel_off"
 
 
 
