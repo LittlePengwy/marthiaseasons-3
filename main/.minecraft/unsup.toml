@@ -43,6 +43,8 @@ flavors = "some_clientside__mods"
 flavors = "some_clientside__mods"
 [metafile.ambientsounds]
 flavors = "some_clientside__mods"
+[metafile.appleskin]
+flavors = "some_clientside__mods"
 [metafile.caelum]
 flavors = "some_clientside__mods"
 [metafile.chat-heads]
@@ -56,6 +58,8 @@ flavors = "some_clientside__mods"
 [metafile.not-enough-animations]
 flavors = "some_clientside__mods"
 [metafile.oculus]
+flavors = "some_clientside__mods"
+[metafile.particle-rain]
 flavors = "some_clientside__mods"
 [metafile.shulkerboxtooltip]
 flavors = "some_clientside__mods"
@@ -71,6 +75,7 @@ flavours = "distanthorizons_on"
 
 [metafile.first-person-model]
 flavours = "first-person-viewmodel_off"
+
 
 
 
