@@ -51,11 +51,7 @@ flavors = "some_clientside__mods"
 flavors = "some_clientside__mods"
 [metafile.connector]
 flavors = "some_clientside__mods"
-[metafile.forgified-fabric-api]
-flavors = "some_clientside__mods"
 [metafile.athena-ctm]
-flavors = "some_clientside__mods"
-[metafile.fusion-connected-textures]
 flavors = "some_clientside__mods"
 [metafile.not-enough-animations]
 flavors = "some_clientside__mods"
@@ -75,6 +71,7 @@ flavours = "distanthorizons_on"
 
 [metafile.first-person-model]
 flavours = "first-person-viewmodel_off"
+
 
 
 
