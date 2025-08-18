@@ -1,12 +1,12 @@
 name = "Marthia Seasons: S3"
-author = "LittlePengwy, Omega_Exists, MisterFP"
-version = "1.0.3"
+author = "LittlePengwy, Omega_Exists, FP"
+version = "1.0.6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee70f6de4af6bf71b175fb64731f11965029ace2c47b97ec974e0e72bc1b696d"
+hash = "8331a2e9d5843e78ffbe5cff3d173048ad4e6f19940832cb36c8beaeb57803e5"
 
 [versions]
 forge = "47.4.0"
