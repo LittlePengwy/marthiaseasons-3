@@ -11,44 +11,71 @@ id = "no_clientside_mods"
 name = "None"
 description = "Bare minimum, barring a few mods."
 
+[flavor_groups.dh]
+name = "Distant Horizons"
+description = "Wether you would like to install Distant Horizons."
+side = "client"
+[[flavor_groups.dh.choices]]
+id = "distanthorizons_on"
+name = "On"
+description = "Distant Horizons On"
+[[flavor_groups.dh.choices]]
+id = "distanthorizons_off"
+name = "Off"
+description = "Distant Horizons Off"
+
+[flavor_groups.model]
+name = "First Person Viewmodel"
+description = "Wether you would like to install First Person Viewmodel"
+side = "client"
+[[flavor_groups.model.choices]]
+id = "first-person-model_on"
+name = "On"
+description = "Viewmodel On"
+[[flavor_groups.model.choices]]
+id = "first-person-viewmodel_off"
+name = "Off"
+description = "Viewmodel Off"
+
 [metafile.3dskinlayers]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.ambient-environment]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.ambientsounds]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.caelum]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.chat-heads]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.continuity]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.connector]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.forgified-fabric-api]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.athena-ctm]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.fusion-connected-textures]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.not-enough-animations]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.oculus]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.shulkerboxtooltip]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.sound-physics-remastered]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.wthit]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 [metafile.zume]
-flavors = ["no_clientside__mods"]
+flavors = "some_clientside__mods"
 
 [metafile.distanthorizons]
-flavors = ["distanthorizons_on"]
+flavors = "distanthorizons_on"
 
 [metafile.first-person-model]
 flavors = "first-person-model_on"
+
 
 
 
